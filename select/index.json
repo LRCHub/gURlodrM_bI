@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "制服のマネキン",
+  "base_artist": "Nogizaka46",
+  "createdAt": "2026-03-27T02:17:23.038729Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "制服のマネキン",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/01_制服のマネキン_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "制服のマネキン",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/02_制服のマネキン_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "制服のマネキン",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/03_制服のマネキン_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "制服のマネキン",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/04_制服のマネキン_Nogizaka46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "制服のマネキン",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_制服のマネキン_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "制服のマネキン",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_02_制服のマネキン_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "制服のマネキン",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_03_制服のマネキン_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "制服のマネキン",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_04_制服のマネキン_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "制服のマネキン",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_05_制服のマネキン_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "制服のマネキン",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_06_制服のマネキン_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "制服のマネキン",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_07_制服のマネキン_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "制服のマネキン",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_08_制服のマネキン_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "制服のマネキン",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_09_制服のマネキン_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "制服のマネキン",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_10_制服のマネキン_乃木坂46.txt"
+    }
+  ]
+}
